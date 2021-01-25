@@ -1,2 +1,7 @@
 # react-dynamic-material-icon-ts
-A react component written in TypeScript to dynamically show a material icon
+Demo project to show a react component written in TypeScript to dynamically show a material icon
+
+# How to run
+```
+npm install
+npm run dev
